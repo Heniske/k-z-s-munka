@@ -21,5 +21,15 @@ div{
 h1{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
+}
+b{
+    font-variant: small-caps;
+    font-size: 130%;
+    padding: 20px;
+}
+a:link{
+    font-weight: bolder;
+    color: darkred;
+    font-style: bolder;
+    text-decoration: underline;
 }
